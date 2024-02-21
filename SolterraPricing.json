@@ -1,0 +1,69 @@
+{
+    "Variant1": "Solterra AWD",  "MPVariant1": "Solterra AWD",  
+    "Variant2": "Solterra AWD Touring",  "MPVariant2": "Solterra AWD Touring",  
+
+    "PC800SolterraAWD": "$73,213",
+    "PC800SolterraAWDTouring": "$80,423",
+
+    "PC2000SolterraAWD": "$75,715",
+    "PC2000SolterraAWDTouring": "$83,065",
+
+    "PC2250SolterraAWD": "$75,585",
+    "PC2250SolterraAWDTouring": "$82,935",
+
+    "PC2264SolterraAWD": "$75,585",
+    "PC2264SolterraAWDTouring": "$82,935",
+
+    "PC2311SolterraAWD": "$75,580",
+    "PC2311SolterraAWDTouring": "$82,930",
+
+    "PC2361SolterraAWD": "$75,580",
+    "PC2361SolterraAWDTouring": "$82,930",
+
+    "PC2500SolterraAWD": "$75,681",
+    "PC2500SolterraAWDTouring": "$83,031",
+
+    "PC2640SolterraAWD": "$75,580",
+    "PC2640SolterraAWDTouring": "$82,930",
+
+    "PC2620SolterraAWD": "$75,580",
+    "PC2620SolterraAWDTouring": "$82,930",
+
+    "PC2606SolterraAWD": "$72,535",
+    "PC2606SolterraAWDTouring": "$79,535",
+    
+    "PC3000SolterraAWD": "$75,821",
+    "PC3000SolterraAWDTouring": "$83,115",
+
+    "PC3024SolterraAWD": "$75,765",
+    "PC3024SolterraAWDTouring": "$83,059",
+
+    "PC3063SolterraAWD": "$75,699",
+    "PC3063SolterraAWDTouring": "$82,993",
+
+    "PC3630SolterraAWD": "$75,699",
+    "PC3630SolterraAWDTouring": "$82,993",
+
+    "PC4000SolterraAWD": "$74,040",
+    "PC4000SolterraAWDTouring": "$81,180",
+
+    "PC4700SolterraAWD": "$74,040",
+    "PC4700SolterraAWDTouring": "$81,180",
+
+    "PC5000SolterraAWD": "$75,379",
+    "PC5000SolterraAWDTouring": "$82,659",
+
+    "PC5606SolterraAWD": "$75,219",
+    "PC5606SolterraAWDTouring": "$82,499",
+
+    "PC6000SolterraAWD": "$77,537",
+    "PC6000SolterraAWDTouring": "$84,992",     "MPC6000SolterraAWDTouring": "$84,992",
+
+    "PC6330SolterraAWD": "$77,537",
+    "PC6330SolterraAWDTouring": "$84,992",      "MPC6330SolterraAWDTouring": "$84,992",
+    
+    "PC7000SolterraAWD": "$75,390",
+    "PC7000SolterraAWDTouring": "$82,670"
+
+  }
+  

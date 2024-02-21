@@ -1,0 +1,113 @@
+{
+    "Variant1": "BRZ Coupe", "MPVariant1": "Subaru BRZ Coupe",
+    "Variant2": "BRZ Coupe S", "MPVariant2": "Subaru BRZ Coupe S",
+    "Variant3": "BRZ Coupe",
+    "Variant4": "BRZ Coupe S",
+
+    "PC800BRZCoupeM": "$43,508",
+    "PC800BRZCoupeAuto": "$47,422",
+    "PC800BRZCoupeSM": "$44,847",
+    "PC800BRZCoupeSAuto": "$48,761",
+
+    "PC2000BRZCoupeM": "$43,512",
+    "PC2000BRZCoupeAuto": "$47,430",
+    "PC2000BRZCoupeSM": "$44,851",
+    "PC2000BRZCoupeSAuto": "$48,795",
+
+    "PC2250BRZCoupeM": "$43,402",
+    "PC2250BRZCoupeAuto": "$47,320",
+    "PC2250BRZCoupeSM": "$44,741",
+    "PC2250BRZCoupeSAuto": "$48,685",
+
+    "PC2264BRZCoupeM": "$43,402",
+    "PC2264BRZCoupeAuto": "$47,320",
+    "PC2264BRZCoupeSM": "$44,741",
+    "PC2264BRZCoupeSAuto": "$48,685",
+
+    "PC2311BRZCoupeM": "$43,391",
+    "PC2311BRZCoupeAuto": "$47,309",
+    "PC2311BRZCoupeSM": "$44,730",
+    "PC2311BRZCoupeSAuto": "$48,674",
+
+    "PC2361BRZCoupeM": "$43,391",
+    "PC2361BRZCoupeAuto": "$47,309",
+    "PC2361BRZCoupeSM": "$44,730",
+    "PC2361BRZCoupeSAuto": "$48,674",
+
+    "PC2500BRZCoupeM": "$43,457",
+    "PC2500BRZCoupeAuto": "$47,375",
+    "PC2500BRZCoupeSM": "$44,796",
+    "PC2500BRZCoupeSAuto": "$48,740",
+
+    "PC2640BRZCoupeM": "$43,391",
+    "PC2640BRZCoupeAuto": "$47,309",
+    "PC2640BRZCoupeSM": "$44,730",
+    "PC2640BRZCoupeSAuto": "$48,674",
+
+    "PC2620BRZCoupeM": "$43,391",
+    "PC2620BRZCoupeAuto": "$47,309",
+    "PC2620BRZCoupeSM": "$44,730",
+    "PC2620BRZCoupeSAuto": "$48,674",
+
+    "PC2606BRZCoupeM": "$43,714",
+    "PC2606BRZCoupeAuto": "$47,634",
+    "PC2606BRZCoupeSM": "$45,053",
+    "PC2606BRZCoupeSAuto": "$49,000",
+    
+    "PC3000BRZCoupeM": "$44,136",
+    "PC3000BRZCoupeAuto": "$48,096",
+    "PC3000BRZCoupeSM": "$45,495",
+    "PC3000BRZCoupeSAuto": "$49,454",
+
+    "PC3024BRZCoupeM": "$44,080",
+    "PC3024BRZCoupeAuto": "$48,039",
+    "PC3024BRZCoupeSM": "$45,439",
+    "PC3024BRZCoupeSAuto": "$49,398",
+
+    "PC3063BRZCoupeM": "$44,014",
+    "PC3063BRZCoupeAuto": "$47,973",
+    "PC3063BRZCoupeSM": "$45,373",
+    "PC3063BRZCoupeSAuto": "$49,332",
+
+    "PC3630BRZCoupeM": "$44,014",
+    "PC3630BRZCoupeAuto": "$47,973",
+    "PC3630BRZCoupeSM": "$45,373",
+    "PC3630BRZCoupeSAuto": "$49,332",
+
+    "PC4000BRZCoupeM": "$43,426",
+    "PC4000BRZCoupeAuto": "$47,340",
+    "PC4000BRZCoupeSM": "$44,765",
+    "PC4000BRZCoupeSAuto": "$48,679",
+
+    "PC4700BRZCoupeM": "$43,426",
+    "PC4700BRZCoupeAuto": "$47,340",
+    "PC4700BRZCoupeSM": "$44,765",
+    "PC4700BRZCoupeSAuto": "$48,679",
+
+    "PC5000BRZCoupeM": "$43,642",
+    "PC5000BRZCoupeAuto": "$47,594",
+    "PC5000BRZCoupeSM": "$44,994",
+    "PC5000BRZCoupeSAuto": "$48,946",
+
+    "PC5606BRZCoupeM": "$43,525",
+    "PC5606BRZCoupeAuto": "$47,477",
+    "PC5606BRZCoupeSM": "$44,877",
+    "PC5606BRZCoupeSAuto": "$48,829",
+
+    "PC6000BRZCoupeM": "$44,354",
+    "PC6000BRZCoupeAuto": "$48,597",
+    "PC6000BRZCoupeSM": "$45,803",     "MPPC6000BRZCoupeSM": "$45,803",
+    "PC6000BRZCoupeSAuto": "$50,061",
+
+    "PC6330BRZCoupeM": "$44,354",
+    "PC6330BRZCoupeAuto": "$48,597",
+    "PC6330BRZCoupeSM": "$45,803", "MPPC6330BRZCoupeSM": "$45,803",
+    "PC6330BRZCoupeSAuto": "$50,061",
+    
+    "PC7000BRZCoupeM": "$43,663",
+    "PC7000BRZCoupeAuto": "$47,615",
+    "PC7000BRZCoupeSM": "$45,015",
+    "PC7000BRZCoupeSAuto": "$48,967"
+
+  }
+  

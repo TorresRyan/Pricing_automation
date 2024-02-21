@@ -1,0 +1,140 @@
+{
+    "Variant1": "Impreza AWD 2.0L",
+    "Variant2": "Impreza AWD 2.0R", 
+    "Variant3": "Impreza AWD 2.0S",
+
+    "MPVariant1": "Subaru Impreza AWD 2.0L",
+    "MPVariant2": "Subaru Impreza AWD 2.0R",
+    "MPVariant3": "Subaru Impreza AWD 2.0S",
+
+    "PC800": "SUBARU DARWIN, 0828",
+    "PC2000": "SUBARU SYDNEY CITY, 2018",
+    "PC2250": "CENTRAL COAST SUBARU, 2250",
+    "PC2264": "CROSSROADS SUBARU, 2285",
+    "PC2311": "MUSWELLBROOK SUBARU, 2333",
+    "PC2361": "SUBARU TAMWORTH, 2340",
+    "PC2500": "TYNAN SUBARU ALBION PARK, 2527",
+    "PC2640": "BAKER SUBARU, 2640",
+    "PC2620": "CAPITAL SUBARU, 2609",
+    "PC2606": "SUBARU CANBERRA, 2606",
+    "PC3000": "SUBARU DOCKLANDS, 3008",
+    "PC3024": "SUBARU WERRIBEE, 3030",
+    "PC3063": "SUBARU ESSENDON, 3041",
+    "PC3630": "KEN MUSTON SUBARU, 3630",
+    "PC4000": "CITY SUBARU NEWSTEAD, 4006",
+    "PC4700": "ROCKHAMPTON SUBARU, 4700",
+    "PC5000": "JARVIS SUBARU, 5000",
+    "PC5606": "PORT LINCOLN SUBARU, 5606",
+    "PC6000": "PERTH CITY SUBARU, 6100",
+    "PC6330": "ALBANY SUBARU, 6330",
+    "PC7000": "SUBARU HOBART, 7000",
+    
+    "MPC800": "Darwin City, 0800",
+    "MPC2000": "Barangaroo, 2000",
+    "MPC2250": "Bucketty, 2250",
+    "MPC2264": "Balcolyn, 2264",
+    "MPC2311": "Allynbrook, 2311",
+    "MPC2361": "Ashford, 2361",
+    "MPC2500": "Coniston, 2500",
+    "MPC2640": "Albury, 2640",
+    "MPC2620": "Beard, 2620",
+    "MPC2606": "Chifley, 2606",
+    "MPC3000": "Melbourne, 3000",
+    "MPC3024": "Fieldstone, 3024",
+    "MPC3063": "Oaklands Junction, 3063",
+    "MPC3630": "Caniambo, 3630",
+    "MPC4000": "Brisbane Adelaide Street, 4000",
+    "MPC4700": "Allenstown, 4700",
+    "MPC5000": "Adelaide, 5000",
+    "MPC5606": "Port Lincoln, 5606",
+    "MPC6000": "City Delivery Centre, 6000",
+    "MPC6330": "Albany, 6330",
+    "MPC7000": "Glebe, 7000",
+
+    "PC800Impreza20L": "$35,371",
+    "PC800Impreza20R": "$38,976",
+    "PC800Impreza20S": "$42,066",
+
+    "PC2000Impreza20L": "$35,438",
+    "PC2000Impreza20R": "$39,043",
+    "PC2000Impreza20S": "$42,133",
+
+    "PC2250Impreza20L": "$35,308",
+    "PC2250Impreza20R": "$38,913",
+    "PC2250Impreza20S": "$42,003",
+ 
+    "PC2264Impreza20L": "$35,308",
+    "PC2264Impreza20R": "$38,913",
+    "PC2264Impreza20S": "$42,003",
+
+    "PC2311Impreza20L": "$35,303",
+    "PC2311Impreza20R": "$38,908",
+    "PC2311Impreza20S": "$41,998",
+
+    "PC2361Impreza20L": "$35,303",
+    "PC2361Impreza20R": "$38,908",
+    "PC2361Impreza20S": "$41,998",
+
+    "PC2500Impreza20L": "$35,404",
+    "PC2500Impreza20R": "$39,009",
+    "PC2500Impreza20S": "$42,099",
+
+    "PC2640Impreza20L": "$35,303",
+    "PC2640Impreza20R": "$38,908",
+    "PC2640Impreza20S": "$41,998",
+
+    "PC2620Impreza20L": "$35,303",
+    "PC2620Impreza20R": "$38,908",
+    "PC2620Impreza20S": "$41,998",
+
+    "PC2606Impreza20L": "$34,898",
+    "PC2606Impreza20R": "$38,433",
+    "PC2606Impreza20S": "$41,463",
+    
+    "PC3000Impreza20L": "$35,908",
+    "PC3000Impreza20R": "$39,551",
+    "PC3000Impreza20S": "$42,677",
+
+    "PC3024Impreza20L": "$35,852",
+    "PC3024Impreza20R": "$39,495",
+    "PC3024Impreza20S": "$42,621",
+
+    "PC3063Impreza20L": "$35,786",
+    "PC3063Impreza20R": "$39,429",
+    "PC3063Impreza20S": "$42,555",
+
+    "PC3630Impreza20L": "$35,786",
+    "PC3630Impreza20R": "$39,429",
+    "PC3630Impreza20S": "$42,555",
+
+    "PC4000Impreza20L": "$35,262",
+    "PC4000Impreza20R": "$38,867",
+    "PC4000Impreza20S": "$41,957",
+
+    "PC4700Impreza20L": "$35,262",
+    "PC4700Impreza20R": "$38,867",
+    "PC4700Impreza20S": "$41,957",
+
+    "PC5000Impreza20L": "$35,439",
+    "PC5000Impreza20R": "$39,079",
+    "PC5000Impreza20S": "$42,199",
+
+    "PC5606Impreza20L": "$35,279",
+    "PC5606Impreza20R": "$38,919",
+    "PC5606Impreza20S": "$42,039",
+
+    "PC6000Impreza20L": "$35,600",
+    "PC6000Impreza20R": "$39,416",     "MPC6000Impreza20R": "$39,416",
+    "PC6000Impreza20S": "$42,714",
+
+    "PC6330Impreza20L": "$35,600",
+    "PC6330Impreza20R": "$39,416",   "MPC6330Impreza20R": "$39,416",
+    "PC6330Impreza20S": "$42,714",
+
+    "PC7000Impreza20L": "$35,119",
+    "PC7000Impreza20R": "$38,884",
+    "PC7000Impreza20S": "$42,214"
+
+    
+  }
+  
